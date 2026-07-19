@@ -222,21 +222,5 @@ class AnchorIML(nn.Module):
 
         return {
             'logits': logits,
-            'x0': x0,
-            'multi_feats': feats,
-            'e_logits': e_logits,
-            'e_probs': e_probs,
-            'sim_f_list': sim_f_list,
-            'sim_p_list': sim_p_list,
-            'proto_sim': proto_sim,
-            'alpha': alpha,
-            'score_mat': score_mat,
-            'modulated_feats': modulated_feats,
-            'f_base_pre': f_base_pre,
-            'f_base': f_base,
-            'f_evi_pre': f_evi_pre,
-            'f_evi': f_evi,
-            'fused': fused,
-            'boundary_feat': boundary_feat,
-            'weighted_evidence': weighted_evidence,
+            'e_logits': e_logits
         }
