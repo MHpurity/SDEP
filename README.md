@@ -1,3 +1,3 @@
 # SDEP
-Learning Propagation for Weakly Supervised Image Manipulation Localization
+Learning Propagation for Weakly Supervised Image Manipulation Localization.  
 The code will come soon......
