@@ -14,17 +14,12 @@ pip install -r requirements.txt
 
 ## Usage
 
-### 1. Datasets
+### Datasets
 For dataset preparation and usage, please refer to the **SCAF** project. You can find the dataset instructions and details here:
-- [SCAF Project Repository](https://github.com/your-username/SCAF) *(Note: Please update with your actual SCAF repository link)*
+- [SCAF Project Repository](https://github.com/your-username/SCAF)
 
-### 2. Training
-To start the training process, run:
 
-```bash
-python train.py
-```
 
 ## Acknowledgements
 
-Our code is inspired by and borrows from [boxpromptiml](https://github.com/referenced-author/project-link). We sincerely thank their authors for their open-source contributions.
+Our code is inspired by and borrows from [BoxPromtIML](https://github.com/vpsg-research/BoxPromtIML). We sincerely thank their authors for their open-source contributions.
